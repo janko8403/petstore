@@ -15,7 +15,7 @@ This is a simple Laravel application for managing a pet store.
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/petstore.git
+    git clone https://github.com/janko8403/petstore.git
     cd petstore
     ```
 
